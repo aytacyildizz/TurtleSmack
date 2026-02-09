@@ -4,7 +4,7 @@ from random import randint
 FONT = ('Arial', 16, 'bold')
 TURTLE_COLOR = "green"
 BACKGROUND_COLOR = "light blue"
-TIME = 5
+TIME = 30
 SCREEN_HEIGHT = 700
 SCREEN_WIDTH = 700
 
